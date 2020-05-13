@@ -1,0 +1,49 @@
+body {
+  background-color: #CAFFD0;
+  font-family: 'Crimson Text', serif;
+  color: #2f3e46;
+  font-size: 25px;
+  text-align: center;
+  line-height: normal;
+}
+
+p {
+  font-family: 'Crimson Text', serif;
+  color: #ff686b;
+  font-size: 25px;
+  text-align: center;
+  line-height: normal;
+}
+
+a {
+  text-decoration: none;
+  color: #2f3e46;
+  text-align: center;
+  margin-right: 30px;
+}
+@media (max-width: 50px) {
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+}
+.card_presentation {
+  border-radius: 4px;
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+
+}
+
+.card_info {
+  border-radius: 4px;
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
